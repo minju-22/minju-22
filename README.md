@@ -14,7 +14,8 @@
 - ✨ 협업을 즐기고, 프로젝트 완성을 통해 성장하는 개발자입니다
 
 ### 📸 SNS
-- Instagram: [@minjussafy13](https://www.instagram.com/minjussafy13)
+- SSAFY 기자단 활동 Instagram: [@minjussafy13](https://www.instagram.com/minjussafy13)
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -24,6 +25,8 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-4E6E8E?style=flat&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+### 🎯 Competitive Programming
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cash0522)](https://solved.ac/cash0522)
 ---
 
 ### 📌 Projects
@@ -37,5 +40,5 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: hmj052266@gmail.com
-- 🌐 Blog: https://velog.io/@crh0522/posts
+[![Gmail](https://img.shields.io/badge/Gmail-hmj052266@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hmj052266@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-crh0522-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@crh0522)
