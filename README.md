@@ -9,8 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔄 AI 분야에서 시작해 백엔드 개발자로 전향 중입니다
-- 🌱 현재 Java, Spring Boot, MySQL 중심으로 개발 역량을 키우고 있어요
+- 🌱 현재 Java, Spring Boot, MySQL 중심으로 백엔드 개발 역량을 키우고 있어요
 - ✨ 협업을 즐기고, 프로젝트 완성을 통해 성장하는 개발자입니다
 
 ### 📸 SNS
@@ -33,12 +32,7 @@
 | Project | Description | Stack |
 |--------|-------------|--------|
 | 🧠 Lietector | 산업협력 캡스톤 프로젝트 – 보이스피싱 탐지 및 챗봇 | Python, ML |
-| 🗺️ TripOn (WIP) | Spring 기반 여행 계획 서비스 | Java, Spring Boot, MyBatis, MySQL |
-
-👉 [더 많은 프로젝트 보러 가기](https://github.com/minju-22?tab=repositories)
-
----
-
-### 📫 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-hmj052266@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hmj052266@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-crh0522-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@crh0522)
+| 🗺️ TripOn [Frontend](https://github.com/minju-22/tripon-frontend.git) / [Backend](https://github.com/minju-22/tripon-backend.git) | 여행 계획 및 후기 작성 웹 서비스 | Java, Spring Boot, MyBatis, MySQL |
+| [🍫 MiniChoCo](https://github.com/minju-22/MiniChoCo.git) | 미니멀리즘을 돕기 위한 법정 컨셉 웹 서비스 | Java, Spring Boot, JPA, MySQL, WebRTC |
+| [🐬 DolFin](https://github.com/minju-22/DolFin.git) | AI 기반 사용자 저축 앱 서비스 | Java, Spring Boot, JPA, MySQL |
+| 📦 Here's Dummy | 대규모 더미데이터 생성 및 DB 성능 테스트 데스크탑앱 서비스 | Node.js, React, SQLlite, Electron |
