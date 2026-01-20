@@ -31,8 +31,8 @@
 ### 📌 Projects
 | Project | Description | Stack |
 |--------|-------------|--------|
-| 🧠 Lietector | 산업협력 캡스톤 프로젝트 – 보이스피싱 탐지 및 챗봇 | Python, ML |
+| 🧠 Lietector | 산업협력 캡스톤 프로젝트 – 보이스피싱 탐지 및 챗봇 | Python, NLP(GloVe, KoBERT) |
 | 🗺️ TripOn [Frontend](https://github.com/minju-22/tripon-frontend.git) / [Backend](https://github.com/minju-22/tripon-backend.git) | 여행 계획 및 후기 작성 웹 서비스 | Java, Spring Boot, MyBatis, MySQL |
-| [🍫 MiniChoCo](https://github.com/minju-22/MiniChoCo.git) | 미니멀리즘을 돕기 위한 법정 컨셉 웹 서비스 | Java, Spring Boot, JPA, MySQL, WebRTC |
+| [🍫 MiniChoCo](https://github.com/minju-22/MiniChoCo.git) | 미니멀리즘을 돕기 위한 법정 컨셉 웹 서비스 | Java, Spring Boot, JPA, MySQL, OpenVidu |
 | [🐬 DolFin](https://github.com/minju-22/DolFin.git) | AI 기반 사용자 저축 앱 서비스 | Java, Spring Boot, JPA, MySQL |
-| 📦 Here's Dummy | 대규모 더미데이터 생성 및 DB 성능 테스트 데스크탑앱 서비스 | Node.js, React, SQLlite, Electron |
+| [📦 Here's Dummy](https://github.com/yuja201/here-is-dummy.git) | 대규모 더미데이터 생성 및 DB 성능 테스트 데스크탑앱 서비스 | Node.js, React, Electron, SQLite |
